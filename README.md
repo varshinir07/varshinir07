@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi there, I'm Varshini! 👋
 
-<!--
-**varshinir07/varshinir07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Full Stack Engineer | Java | Node | Angular
 
-Here are some ideas to get you started:
+I'm a passionate full-stack developer who loves building scalable applications and solving complex problems. With expertise spanning backend services, modern web frontends including micro frontends, and cloud-native solutions on GCP, I enjoy working across the entire technology stack.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech Stack
+
+**Backend Development**
+
+- ☕ Java (Spring Boot, Spring Framework)
+- 🟢 Node.js (Express.js, Nest.js)
+- 🗄️ RESTful APIs & Microservices
+- 📊 Database Management (MSSQL, PostgreSQL, MySQL, Reddis)
+- 🔧 Maven/Gradle Build Tools
+
+**Frontend Development**
+
+- 🅰️ Angular (TypeScript, RxJS, Angular Material)
+- ⚛️ React (Context API, Redux)
+- 🎨 HTML5, CSS3, SCSS
+- 📱 Responsive Web Design
+- 🔄 State Management (NgRx)
+- 🏗️ Micro Frontends (Webpack, Nx)
+
+**Tools & Technologies**
+- 🐳 Docker & Kubernetes (CAAS)
+- ☁️ Cloud Platforms (GCP)
+- 🔄 CI/CD Pipelines (Jenkins, Github Action Workflow, Tekton)
+- 📝 Git Version Control
+- 🧪 Unit Testing (JUnit, Jasmine, Karma)
+
+### 🎯 What I Do
+
+- 🏗️ Build end-to-end web applications with Java backends and Angular frontends
+- 🔧 Design and implement RESTful APIs and microservices architectures
+- 📊 Create responsive, user-friendly interfaces with modern UI/UX principles
+- 🚀 Optimize application performance and ensure code quality
+- 🤝 Collaborate with cross-functional teams using Agile methodologies
+
+### 🌱 Currently Learning
+
+- 🤖 AI/ML integration in web applications
+- ☁️ Advanced cloud architectures on GCP
+
+### 📫 Let's Connect!
+
+- 💼 [LinkedIn](www.linkedin.com/in/varshinir07)
+
+  
+
+⭐ Feel free to explore my repositories and don't hesitate to reach out for collaborations 🚀
